@@ -1,0 +1,13 @@
+.env
+vendor
+!modules/*/vendor
+error.log
+node_modules
+composer-lock.json
+.env.testing
+.phpunit.result.cache
+worker.log
+*.log
+*.ignore.*
+*.log.*
+yarn.lock
